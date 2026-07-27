@@ -1,5 +1,8 @@
 # 2026-07-26 インバータ設計ハンズオン (OpenSUSI-TR10)
 
+## 資料
+https://github.com/ishi-kai/OpenEDA-PDK_SetupScript/blob/main/docs/inverter_OpenSUSI-TR10.pdf
+
 ## 成果物
 - `inverter_yamazaki.gds` — レイアウト(DRC/LVSクリア済み)
 - `inverter_yamazaki.sch` — 回路図
