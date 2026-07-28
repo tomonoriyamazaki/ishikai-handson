@@ -1,7 +1,7 @@
 # 2026-07-26 インバータ設計ハンズオン (OpenSUSI-TR10)
 
 ## イベント
-https://ishikai.connpass.com/event/390287/
+2026年07月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン
 
 ## 資料
 https://github.com/ishi-kai/OpenEDA-PDK_SetupScript/blob/main/docs/inverter_OpenSUSI-TR10.pdf
