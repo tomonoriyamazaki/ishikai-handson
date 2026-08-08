@@ -5,8 +5,8 @@ ISHI会「オーディオ用OPAMP半導体ハンズオン」(2026/08/08, WeWork�
 
 ## 成果物
 
-- 差動増幅回路: `opamp_r2r_diff_yamazaki.spice` / `opamp_r2r_diff_yamazaki.gds`
-- AB級出力段: `opamp_r2r_ABAMP_yamazaki.spice` / `opamp_r2r_ABAMP_yamazaki.gds`
+- 差動増幅回路: `opamp_r2r_diff_yamazaki.sch` / `opamp_r2r_diff_yamazaki.gds`
+- AB級出力段: `opamp_r2r_ABAMP_yamazaki.sch` / `opamp_r2r_ABAMP_yamazaki.gds`
 
 両ブロックとも DRC 0件 / LVS "Netlists match" 確認済み。サイズ制限(差動300×500µm, AB級800×500µm)内であることも実測確認。前回に続きチップアート "T.Y" をM1に刻印。
 
