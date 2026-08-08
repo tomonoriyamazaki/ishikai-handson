@@ -1,4 +1,4 @@
-# 2026-08-08_opamp-tr10
+# 2026-08-08_opamp-audio
 
 ISHI会「オーディオ用OPAMP半導体ハンズオン」(2026/08/08, WeWork日比谷) の成果物。
 プロセス: OpenSUSI-TR10 (TR-1um) / ツール: KLayout, xschem, ngspice
